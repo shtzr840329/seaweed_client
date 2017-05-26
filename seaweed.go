@@ -1,1 +1,5 @@
-package seaweed
+package main
+
+func main() {
+
+}
